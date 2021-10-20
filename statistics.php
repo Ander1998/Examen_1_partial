@@ -109,3 +109,4 @@
     }
 
 ?>
+<header>$_COOKIE</header>
